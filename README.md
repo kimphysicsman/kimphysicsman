@@ -1,4 +1,4 @@
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1b03f877-bd9f-4ba0-a853-7800c060f7a0%2FKakaoTalk_20220421_181112013.jpg?table=block&id=0868a217-f712-492c-bbdd-c88fd67c2907&spaceId=18a55a3f-2515-4f20-9f7f-04187576573f&width=2000&userId=f65f0c54-5dc8-4f1b-acf4-e4d6d5c93a82&cache=v2" width="200px; border-radius: 20px" align="left" />
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1b03f877-bd9f-4ba0-a853-7800c060f7a0%2FKakaoTalk_20220421_181112013.jpg?table=block&id=0868a217-f712-492c-bbdd-c88fd67c2907&spaceId=18a55a3f-2515-4f20-9f7f-04187576573f&width=2000&userId=f65f0c54-5dc8-4f1b-acf4-e4d6d5c93a82&cache=v2" width="200px;" align="left" />
 <h1>Hello, World!</h1>
 
 **I'm Dongwoo Kim, Back-end developer from Korean**
