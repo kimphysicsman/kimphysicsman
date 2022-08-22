@@ -3,7 +3,7 @@
 
 **I'm Dongwoo Kim, Back-end developer from Korean**
 
-**kimphysicsman@gamil.com**
+**kimphysicsman@gmail.com**
 
 
 <br />
