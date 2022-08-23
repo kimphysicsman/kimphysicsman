@@ -5,12 +5,14 @@
 
 **kimphysicsman@gmail.com**
 
+<a href="https://github.com/kimphysicsman/portfolio">
+ <img src="https://img.shields.io/badge/-Portfolio-8A26C9?style=for-the-badge" height="28px" />
+</a>
 
 <br />
-<br />
 
 <br />
-<h2> My tech stack 📚 </h2>
+<h2> My Tech Stack 📚 </h2>
 
 ![Python3](https://img.shields.io/badge/-Python3-8C8C8C?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django&logoColor=ffffff)
@@ -26,7 +28,7 @@
 
 
 <br />
-<h2> Want to know more ❓ </h2>
+<h2> Want To Know More ❓ </h2>
 
 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4">
  <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="28px" />
@@ -40,3 +42,11 @@
 <a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" />
 </a>
+
+<br />
+<br />
+<br />
+
+
+
+
